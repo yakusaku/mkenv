@@ -1,9 +1,9 @@
 # The aim of this repo is to share setup infomation.
 
-# CentOS 7.x (one of linux distributions)
+CentOS 7.x (one of linux distributions)
 
-# Ubuntu ?
+Ubuntu ?
 
-# windows 10
+windows 10
 
-# MacOS ?
+MacOS ?
