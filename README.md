@@ -1,8 +1,6 @@
 # The aim of this repo is to share setup infomation.
 
-CentOS 7.x (one of linux distributions)
-
-Ubuntu ?
+Linux (CentOS 7.x/ Ubuntu ?)
 
 windows 10
 
